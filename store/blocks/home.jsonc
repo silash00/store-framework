@@ -1,7 +1,8 @@
 {
   "store.home": {
     "blocks": [
-      "flex-layout.row"
+      "flex-layout.row",
+      "shelf"
     ]
   },
   "flex-layout.row":{
@@ -40,5 +41,4 @@
       "maxWidth": "100%"
     }
   }
-
 }
